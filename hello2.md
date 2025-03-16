@@ -1,2 +1,1 @@
-## E
-sto es otra prueba amigos
+## Esto es otra prueba amigos
